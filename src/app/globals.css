@@ -20,7 +20,13 @@
 }
 
 body {
-  background: var(--background);
+  background-image: url('https://images.unsplash.com/photo-1581349482160-946f9b7be1c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=60');
+  background-repeat: repeat;
+  background-color: #d2d3ee; 
+  background-size: auto;
+  background-attachment: fixed;
+  background-position: top left;
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
